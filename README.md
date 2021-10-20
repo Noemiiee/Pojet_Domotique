@@ -1,2 +1,4 @@
-# Pojet_Domotique
-Projet_Domotique fait en groupe à Efficom
+# ProjetDomotique
+Projet réalisé à Efficom, en equipe.
+
+Projet initialement sur repl.it 
